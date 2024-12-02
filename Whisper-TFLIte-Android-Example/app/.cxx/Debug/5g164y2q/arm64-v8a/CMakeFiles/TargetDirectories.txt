@@ -1,0 +1,3 @@
+/Users/fangchen/Documents/GitHub/openai-whisper/android_app/Whisper-TFLIte-Android-Example/app/.cxx/Debug/5g164y2q/arm64-v8a/CMakeFiles/native-lib.dir
+/Users/fangchen/Documents/GitHub/openai-whisper/android_app/Whisper-TFLIte-Android-Example/app/.cxx/Debug/5g164y2q/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/fangchen/Documents/GitHub/openai-whisper/android_app/Whisper-TFLIte-Android-Example/app/.cxx/Debug/5g164y2q/arm64-v8a/CMakeFiles/rebuild_cache.dir

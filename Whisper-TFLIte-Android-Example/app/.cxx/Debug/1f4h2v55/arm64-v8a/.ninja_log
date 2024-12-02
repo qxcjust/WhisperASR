@@ -1,0 +1,4 @@
+# ninja log v5
+1	13437	7548341433641702	CMakeFiles/native-lib.dir/native-lib.cpp.o	794755c0f1346790
+13444	22088	7548341519944318	E:/WhisperASR/Whisper-TFLIte-Android-Example/app/build/intermediates/cxx/Debug/1f4h2v55/obj/arm64-v8a/libnative-lib.so	c1762433b6e7fce3
+0	162	0	clean	3cc59ee7e36542d0

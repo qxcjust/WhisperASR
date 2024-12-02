@@ -1,0 +1,1 @@
+/Users/fangchen/Documents/GitHub/openai-whisper/android_app/Whisper-TFLIte-Android-Example/app/build/intermediates/cxx/Debug/5g164y2q/obj/arm64-v8a

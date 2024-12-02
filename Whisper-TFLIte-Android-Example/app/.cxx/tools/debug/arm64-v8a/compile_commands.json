@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/WhisperASR/Whisper-TFLIte-Android-Example/app/.cxx/Debug/1f4h2v55/arm64-v8a",
+  "command": "C:\\Users\\qinxi\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android29 --sysroot=C:/Users/qinxi/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -IE:/WhisperASR/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/tensorflow_src -IE:/WhisperASR/Whisper-TFLIte-Android-Example/app/src/main/cpp/tf-lite-api/include/flatbuffers/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c E:\\WhisperASR\\Whisper-TFLIte-Android-Example\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\WhisperASR\\Whisper-TFLIte-Android-Example\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

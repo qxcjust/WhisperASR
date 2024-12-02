@@ -1,0 +1,1 @@
+/Users/fangchen/Documents/GitHub/openai-whisper/android_app/Whisper-TFLIte-Android-Example/app/src/main/cpp/CMakeLists.txt

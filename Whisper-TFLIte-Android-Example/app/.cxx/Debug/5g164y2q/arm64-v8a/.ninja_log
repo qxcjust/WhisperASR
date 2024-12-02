@@ -1,0 +1,4 @@
+# ninja log v5
+0	8	0	clean	b492ff1dc72054fb
+0	1486	1732930732559082621	CMakeFiles/native-lib.dir/native-lib.cpp.o	db368d7d33334730
+1487	1641	1732930732720221772	/Users/fangchen/Documents/GitHub/openai-whisper/android_app/Whisper-TFLIte-Android-Example/app/build/intermediates/cxx/Debug/5g164y2q/obj/arm64-v8a/libnative-lib.so	c6512f078f0085ab
